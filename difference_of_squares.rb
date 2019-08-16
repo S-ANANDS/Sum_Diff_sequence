@@ -14,7 +14,6 @@ class Squares
         sum
     end
     def difference
-        dff=0
         dff = square_of_sum - sum_of_squares
         dff
     end
